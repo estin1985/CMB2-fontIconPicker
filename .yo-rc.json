@@ -1,0 +1,20 @@
+{
+  "generator-plugin-wp": {
+    "name": "CMB2 fontIconPicker",
+    "homepage": "https://webdevstudios.com",
+    "description": "A radical new plugin for WordPress!",
+    "version": "0.0.0",
+    "author": "Jared Melchert",
+    "authoremail": "jared@private-partners.com",
+    "authorurl": "http://www.private-partners.com",
+    "license": "MIT",
+    "slug": "cmb2-fonticonpicker",
+    "classname": "CMB2_FontIconPicker",
+    "mainclassname": "CMB2_FontIconPicker",
+    "classprefix": "CMB2FIP_",
+    "prefix": "cmb2_fip",
+    "year": 2017,
+    "currentVersionWP": "4.7.2",
+    "plugingenversion": "0.19.7"
+  }
+}

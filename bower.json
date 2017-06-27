@@ -1,0 +1,22 @@
+{
+  "name": "cmb2-fonticonpicker",
+  "description": "A radical new plugin for WordPress!",
+  "license": "MIT",
+  "authors": [
+    "Jared Melchert"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "assets/bower"
+  ],
+  "dependencies": {
+    "fontIconPicker": "^2.0.0"
+  },
+  "main": "",
+  "homepage": ""
+}
